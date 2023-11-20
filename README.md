@@ -9,7 +9,7 @@ O objetivo deste projeto é solucionar uma problemática do atual sistema de mat
 ## Prototipo :arrow_forward:
 - Doing...
 
-## Contribuidores 🤓
+## Contribuidores ☝️🤓
 
  - Felipe Gusmão <fvg@cin.ufpe.br>
  - Gabriel Aragão <gaca@cin.ufpe.br>

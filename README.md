@@ -11,11 +11,12 @@ O objetivo deste projeto é solucionar uma problemática do atual sistema de mat
 
 ## Contribuidores 🤓
 
- - Gabriel Aragão
- - Geydson Renan
- - Mariana Amorim
- - Felipe Valença
- - Marcos Antonio
+ - Felipe Gusmão <fvg@cin.ufpe.br>
+ - Gabriel Aragão <gaca@cin.ufpe.br>
+ - Geydson Renan <grml@cin.ufpe.br> 
+ - Mariana Amorim <mrbsa@cin.ufpe.br>
+ - Marcos Antonio <mavl@cin.ufpe.br>
+ - Rodrigo Barbosa <rbo3@cin.ufpe.br>
 
 ## Professores 📏
  - Simone Cristiane dos Santos

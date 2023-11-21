@@ -1,7 +1,8 @@
-<h1 align="center"> GPN, PGP E SGE  (IF974) </h1>
+<h1 align="center"> Sistema de Integração de Matrículas - IFPE </h1>
+<h1 align="center"> GPN, PGP E SGE </h1>
 
 ## Visão Geral :memo:🖊️
-Doing...
+-   [Kickoff](https://github.com/gabrielaragao01/projeto-sistemas-integrados/tree/main/KickOff)
 
 ## Objetivo 🗿🍷
 O objetivo deste projeto é solucionar uma problemática do atual sistema de matrícula Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco.
@@ -10,7 +11,6 @@ O objetivo deste projeto é solucionar uma problemática do atual sistema de mat
 - Doing...
 
 ## Contribuidores ☝️🤓
-
  - Felipe Gusmão <fvg@cin.ufpe.br>
  - Gabriel Aragão <gaca@cin.ufpe.br>
  - Geydson Renan <grml@cin.ufpe.br> 

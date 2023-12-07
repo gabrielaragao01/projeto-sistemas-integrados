@@ -3,6 +3,7 @@
 
 ## Visão Geral :memo:🖊️
 -   [Kickoff](https://github.com/gabrielaragao01/projeto-sistemas-integrados/tree/main/KickOff)
+-   [Notion](https://www.notion.so/Integra-o-de-Sistemas-IFPE-ec21be0f3d6744208923725738b729d1?pvs=4)
 
 ## Objetivo 🗿🍷
 O objetivo deste projeto é solucionar uma problemática do atual sistema de matrícula Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco.

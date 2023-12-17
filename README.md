@@ -1,4 +1,4 @@
-<h1 align="center"> Sistema de Integração de Matrículas - IFPE </h1>
+<h1 align="center"> Integração de Sistemas de Matrículas - IFPE </h1>
 <h1 align="center"> GPN, PGP E SGE </h1>
 
 ## Visão Geral :memo:🖊️

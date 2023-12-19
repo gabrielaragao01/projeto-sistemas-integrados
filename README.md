@@ -1,5 +1,5 @@
 <h1 align="center"> Integração de Sistemas de Matrículas - IFPE </h1>
-<h1 align="center"> GPN, PGP E SGE </h1>
+<h1 align="center"> SGE, GPN E PGP   </h1>
 
 ## Visão Geral :memo:🖊️
 -   [Kickoff](https://github.com/gabrielaragao01/projeto-sistemas-integrados/tree/main/KickOff)
